@@ -1,4 +1,3 @@
-```rust
 use stylus_sdk::{
     prelude::*,
     alloy_primitives::{U256, I256, B256},
@@ -93,4 +92,3 @@ pub fn calculate_dimension_update(
         new_value
     }
 }
-```
